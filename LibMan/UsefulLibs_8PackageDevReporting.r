@@ -3,6 +3,6 @@
 # from https://www.r-bloggers.com/2020/04/essential-list-of-useful-r-packages-for-data-scientists/
 
 install.packages(c("devtools","usethis","roxygen2","knitr",
-                   "rmarkdown","flexdashboard","Shiny",
+                   "rmarkdown","flexdashboard","shiny",
                    "xtable","httr","profvis"),
                  dependencies = TRUE)

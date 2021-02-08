@@ -5,8 +5,8 @@
 install.packages(c("ggvis","htmlwidgets","maps","sunburstR", "lattice",
                    "predict3d","rgl","rglwidget","plot3Drgl","ggmap","ggplot2","plotly",
                    "RColorBrewer","dygraphs","canvasXpress","qgraph","moveVis","ggcharts",
-                   "igraph","visNetwork","visreg", "VIM", "sjPlot", "plotKML", "squash",
-                   "statVisual", "mlr3viz", "klaR","DiagrammeR","pavo","rasterVis",
-                   "timelineR","DataViz","d3r","d3heatmap","dashboard", "highcharter",
+                   "igraph","visNetwork","visreg", "VIM", "sjPlot", "squash",
+                   "mlr3viz", "klaR","DiagrammeR","pavo","rasterVis",
+                   "timelineR","DataViz","d3r","dashboard", "highcharter",
                    "rbokeh"),
                  dependencies = TRUE)

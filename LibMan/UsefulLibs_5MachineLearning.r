@@ -3,21 +3,21 @@
 # from https://www.r-bloggers.com/2020/04/essential-list-of-useful-r-packages-for-data-scientists/
 
 # Modelling and Validation
-install.packages(c("tree", "e1071","crossval","caret","rpart","bcv",
-                   "klaR","EnsembleCV","gencve","cvAUC","CVThresh",
+install.packages(c("tree", "e1071","crossval","caret","rpart",
+                   "klaR","gencve","cvAUC","CVThresh",
                    "cvTools","dcv","cvms","blockCV"),
                  dependencies = TRUE)
 # Random Forest
 install.packages(c("randomForest","grf","ipred","party","randomForestSRC",
-                   "grf","BART","Boruta","LTRCtrees","REEMtree","refr",
+                   "grf","BART","Boruta","LTRCtrees","REEMtree",
                    "binomialRF","superml"),
                  dependencies = TRUE)
 # Regression / Boosting / Gradient Descent
-install.packages(c("earth", "gbm","GAMBoost", "GMMBoost", "bst","superml",
+install.packages(c("earth", "gbm", "GMMBoost", "bst","superml",
                    "sboost"),
                  dependencies = TRUE)
 # Classification
-install.packages(c("rpart", "tree", "C50", "RWeka","klar", "e1071",
+install.packages(c("rpart", "tree", "C50","klar", "e1071",
                    "kernlab","svmpath","superml","sboost"),
                  dependencies = TRUE)
 # Neural Networks
@@ -34,6 +34,6 @@ devtools::install_github("nproellochs/ReinforcementLearning")
 install.packages(c("RLT","ReinforcementLearning","MDPtoolbox"),
                  dependencies = TRUE)
 # Model Interpretability / Explainable AI
-install.packages(c("lime","localModel","iml","EIX","flashlight",
+install.packages(c("lime","localModel","iml","flashlight",
                    "interpret","outliertree","breakDown"),
                  dependencies = TRUE)

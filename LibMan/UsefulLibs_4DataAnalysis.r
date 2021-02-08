@@ -6,7 +6,7 @@
 install.packages(c("stats","Lars","caret","survival","gam","glmnet",
                    "quantreg","sgd","BLR","MASS","car","mlogit","earth",
                    "faraway","nortest","lmtest","nlme","splines",
-                   "sem","WLS","OLS","pls","2SLS","3SLS","tree","rpart"),
+                   "sem","pls","tree","rpart"),
                  dependencies = TRUE)
 # ANOVA / Variance
 install.packages(c("caret","rio","car","MASS","FuzzyNumbers",
@@ -14,8 +14,8 @@ install.packages(c("caret","rio","car","MASS","FuzzyNumbers",
                  dependencies = TRUE)
 # Multivariate Analysis
 install.packages(c("psych","CCA","CCP","MASS","icapca","gvlma","smacof",
-                   "MVN","rpca","gpca","EFA.MRFA","MFAg","MVar","fabMix",
-                   "fad","spBFA","cate","mnlfa","CSFA","GFA","lmds","SPCALDA",
+                   "MVN","rpca","EFA.MRFA","MFAg","MVar","fabMix",
+                   "fad","spBFA","mnlfa","GFA","lmds","SPCALDA",
                    "semds", "superMDS", "vcd", "vcdExtra"),
                  dependencies = TRUE)
 # Classification
@@ -27,7 +27,7 @@ install.packages(c("fpc","cluster","treeClust","e1071","NbClust","skmeans",
                    "MOCCA","factoextra",poLCA),
                  dependencies = TRUE)
 # Time Series / Financial Data
-install.packages(c("ts","zoo","xts","timeSeries","tsModel", "TSMining",
+install.packages(c("zoo","xts","timeSeries","tsModel", "TSMining",
                    "TSA","fma","fpp2","fpp3","tsfa","TSdist","TSclust","feasts",
                    "MTS", "dse","sazedR","kza","fable","forecast","tseries",
                    "nnfor","quantmod"),

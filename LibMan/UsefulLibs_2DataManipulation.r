@@ -4,7 +4,7 @@
 
 # Data Cleaning
 install.packages(c("janitor","outliers","missForest","frequency","Amelia",
-                   "diffobj","mice","VIM","Bioconductor","mi",
+                   "diffobj","mice","VIM","mi",
                    "wrangle"),
                  dependencies = TRUE)
 # Data Types / Formats
@@ -12,7 +12,7 @@ install.packages(c("stringr","lubridate","glue",
                    "scales","hablar","readr"),
                  dependencies = TRUE)
 # Data Wrangling / Aggregating / Subsetting
-install.packages(c("dplyr","tidyverse","purr","magrittr",
+install.packages(c("dplyr","tidyverse","magrittr",
                    "data.table","plyr","tidyr","tibble",
                    "reshape2"),
                  dependencies = TRUE)
