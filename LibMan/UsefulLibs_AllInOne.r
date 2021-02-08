@@ -36,7 +36,7 @@ install.packages(c("Hmisc","foreign","protr","readxl","xlsx",
                    "sazedR","kza","fable","forecast","tseries",
                    "nnfor","quantmod","fastnet","tsna","sna",
                    "networkR","InteractiveIGraph","SemNeT","igraph",
-                   "dyads","staTools","CINNA","tm","tau","NetworkToolbox"
+                   "dyads","staTools","CINNA","tm","tau","NetworkToolbox",
                    "koRpus","lexicon","sylly","textir","textmineR",
                    "MediaNews","lsa","ngram","ngramrr","corpustools",
                    "udpipe","textstem","tidytext","text2vec","crossval",
