@@ -3,10 +3,10 @@
 # from https://www.r-bloggers.com/2020/04/essential-list-of-useful-r-packages-for-data-scientists/
 
 install.packages(c("Hmisc","foreign","protr","readxl","xlsx",
-                   "csv","readr","tidyverse","jsonLite","rjson",
+                   "csv","readr","tidyverse","jsonlite","rjson",
                    "RJSONIO","jsonvalidate","sparkavro","arrow","feather",
                    "XML","odbc","RODBC","mssqlR","RMySQL",
-                   "dbConnect","postGIStools","RPostgreSQL","ODBC",
+                   "postGIStools","RPostgreSQL","ODBC",
                    "RSQLite","sqliter","dbflobr","RSQL","sqldf",
                    "poplite","queryparser","influxdbr","janitor","outliers",
                    "missForest","frequency","Amelia","diffobj","mice",
