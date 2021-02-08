@@ -2,7 +2,7 @@
 # 0. All In One Cammand Wrap-Up
 # from https://www.r-bloggers.com/2020/04/essential-list-of-useful-r-packages-for-data-scientists/
 
-install.packages(c("Hmisc","foreign","protr","readxl","xlsx",
+install.packages(c("Hmisc","foreign","protr","readxl",#"xlsx",
                    "csv","readr","tidyverse","jsonlite","rjson",
                    "RJSONIO","jsonvalidate","sparkavro","arrow","feather",
                    "XML","odbc","RODBC","mssqlR","RMySQL",
