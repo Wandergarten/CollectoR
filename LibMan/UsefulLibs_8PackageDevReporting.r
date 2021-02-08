@@ -4,5 +4,5 @@
 
 install.packages(c("devtools","usethis","roxygen2","knitr",
                    "rmarkdown","flexdashboard","shiny",
-                   "xtable","httr","profvis"),
+                   "xtable","httr","profvis", "installr"),
                  dependencies = TRUE)

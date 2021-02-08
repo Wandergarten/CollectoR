@@ -62,7 +62,7 @@ AllPackages <- c("Hmisc","foreign","protr","readxl", "readODS",
                  "dashboard","highcharter","rbokeh","rvest",
                  "Rcrawler","ralger","scrapeR","devtools","usethis",
                  "roxygen2","knitr","rmarkdown","flexdashboard","shiny",
-                 "xtable","httr","profvis")
+                 "xtable","httr","profvis", "installr")
 # create list of missing packages
 new.packages <- AllPackages[!(AllPackages %in% installed.packages()[,"Package"])]
 # install missing packages
