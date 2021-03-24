@@ -1,0 +1,103 @@
+"x"
+"1" "' Frühere Schriftträger [Bearbeiten]|
+Höhlenzeichnungen sind die ältesten war ein Pinsel aus Binsen. Zwar gab es
+Dokumente, die der Mensch mit Papyrus im antiken Griechenland, jedoch
+Pigmentfarbe auf einen Untergrund war eine Verbreitung über Griechenland
+gezeichnet hat. Die Sumerer, die Träger der hinaus kaum bekannt. Im 3. Jahrhundert
+ältesten bekannten Hochkultur, schrieben ersetzten die Griechen den Pinsel durch eine
+seit etwa 3200 v. Chr. mit Keilschrift auf gespaltene Rohrfeder. Von dem
+weiche Tontafeln, die zum Teiil bis heute griechischen Wort pdpyros leitet sich das
+überliefert sind, weil sie durch Zufälle Wort Papier ab.
+gebrannt wurden. Auch aus Agypten sind
+Schriftträger aus anorganischen Materialien Titel
+bekannt, beispielsweise die Prunkpalette des
+Königs Narmer (3100 v. Chr.) aus Im Römischen Reich wurde sowohl Papyrus
+Speckstein. benutzt als auch Wachstafeln. In die
+Letzteren wurde der Text mittels
+P angespitzter Griffel geritzt. Nach dem
+Auslesen wurde das Wachs mit einem
+Schaber geglättet und die Tafel konnte
+erneut beschrieben werden. Offentliche
+g n Verlautbarungen wurden meist als
+_ auch aus organischem Material, wie Holz,
+E Bambusstreifen und Seide. Pflanzenblätter
+i ü Ba und Tierhäute wurden noch nicht als
+apler ° -
+P Schriftträger benutzt. Orakelknochen
+wurden mit Griffeln geritzt oder mit Tinte
+Papyrus besteht aus den flach geschlagenen, ) h .
+n mit Lampenruß oder Zinnober als Pigment
+über Kreuz gelegten und gepressten s r ;
+n vr beschriftet. Im mittelalterlichen Europa
+Stängeln der am gesamten unteren Nil in .
+. wurde dann vermehrt Pergament aus
+ruhigen Uferzonen wachsenden R 5 w
+} . Tierhäuten benutzt. Die Tierhäute werden
+Schilfpflanzen (Echter Papyrus). . , n
+. . mit Pottasche oder Kalk gebeizt, gründlich
+Geschrieben wurde darauf mit schwarzer .
+. gereinigt und aufgespannt getrocknet, es
+und roter Farbe. Die schwarze Tusche ,
+. N folgte das Schaben und die
+bestand aus Ruß und einer Lösung von . .
+. . | Oberflächenbearbeitung.
+Gumm!i arabicum, die rote Farbe wurde auf
+Ocker-Basis hergestellt. Das Schreibgerät
+"
+"2" "German
+
+Texterkennung ist deshalb notwendig, weil optische Eingabegeräte (Scanner oder
+Digitalkameras, aber auch Faxempfänger) als Ergebnis ausschließlich Rastergrafiken '
+hefern können, d. h. in Zeilen und Spalten angeordnete Flächen unterschiedlicher
+Färbung (Pixel). Texterkennung bezeichnet dabei die Aufgabe, zusammengehörende
+Farbflächen, die Buchstaben darstellen, als solche zu erkennen. Automatische
+Texterkennung und OCR werden im deutschen Sprachraum oft synonym verwendet. In
+technischer Hinsicht bezieht sich OCR jedoch nur auf den Teilbereich der
+Mustervergleiche von separierten Bildteilen als Kandidaten zur Erkennung von
+Einzelzeichen. Diesem OCR-Prozess geht eine globale Strukturerkennung voraus, in
+
+der zuerst Textblöcke von graphischen Elementen unterschieden, die Zeilenstrukturen
+erkannt und schließlich Einzelzeichen separiert werden. Diese OCR-Ergebnisse können
+
+durch nachfolgende Verfahren, in denen der Kontext berücksichtigt wird, präzisiert
+werden.
+
+Ursprünglich wurden zur automatischen Texterkennung eigens entworfene Schriftarten
+entwickelt, die zum Beispiel für das Bedrucken von Scheckformularen verwendet
+wurden. Diese Schriftarten waren so gestaltet, dass die einzelnen Zeichen von einem
+OCR-Lesegerät schnell und ohne großen Rechenaufwand unterschieden werden
+konnten. So zeichnet sich die Schriftart OCR-A (DIN 66008, ISO 1073-1) durch
+einander besonders unähnliche Zeichen, besonders bei den Ziffern, aus. OCR-B (ISO
+1073-2) ähnelt mehr einer serifenlosen, nicht-proportionalen Schriftart, während OCR-H
+
+(DIN 66225) handgeschriebenen Ziffern und Großbuchstaben nachempfunden wurde. .
+kopf
+
+Die gestiegene Leistungsfähigkeit moderner Computer und verbesserte Algorithmen
+erlauben inzwischen auch die Erkennung von „normalen“ Druckerschriftarten bis hin zu
+Handschriften (etwa bei der Briefverteilung); wenn jedoch Lesbarkeit durch Menschen
+
+nicht vorrangig Ist, werden drucktechnisch und erkennungstechnisch einfacher
+handhabbare Strichcodes genutzt.
+
+Moderne Texterkennung umfasst inzwischen mehr als reine OCR, das heißt die
+Übersetzung einzelner Schriftzeichen. Zusätzlich werden Methoden der Kontextanalyse
+Intelligent Character Recognition (ICR) hinzugezogen, mit welcher die OCR-Ergebnisse
+korrigiert werden können. So kann eine „8” zu einem „B” korrigiert werden, wenn sie in -
+einem Buchstaben-Kontext steht. Das OCR-Ergebnis „8aum“ kann mit ICR-Methoden -
+zu „Baum“ korrigiert werden. Im Bereich industrieller Texterkennungssysteme wird '
+daher von OCR/ICR-Systemen gesprochen. Die Grenzen des OCR-Begriffes sind
+jedoch fließend, denn OCR und ICR dienen auch als Marketingbegriffe, um technische e
+Weiterentwicklungen besser vermarkten zu können. Auch Intelligent Word Recognition
+(IWR) fällt unter diese Kategorie. Dieser Ansatz versucht das Problem bei der _
+Erkennung von Fließhandschriften zu lösen, bei der die Einzelzeichen nicht eindeutig
+separiert und daher nicht über herkömmliche OCR-Methoden erkannt werden können.
+Mit dieser Methode lassen sich jedoch keine Volltexte, sondern nur inhaltlich eng
+definierte und in ihrer Varianz bekannte Te xtawschmfte Bl'kW c _ä \" * f
+Varianz, desto zufallsabhängiger wird die Erkennungsgenauigkeit. Da IWR-Methoden
+nicht für Volltexterkennung geeignet sind, gilt generell, dass Fließhandschrift maschinell
+nicht lesbar ist. Das gilt auch für Schriften von Sprachen, die keine klaren
+
+. S ' ; A “ää B . E
+E A N E
+"

@@ -1,0 +1,7 @@
+"x"
+"1" "An Introduction to R
+Notes on R: A Programming Environment for Data Analysis and Graphics
+Version 4.0.4 (2021-02-15)
+W.N. Venables, D. M. Smith
+and the R Core ‘Team
+"

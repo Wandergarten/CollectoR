@@ -1,0 +1,45 @@
+"x"
+"1" "1 Einführung
+
+1.1 Historische Entwicklung
+
+Der Begriff Stochastik kommt aus dem Altegriechischen von stochastike = zum Erraten gehörende
+Kunst, und steht als Sammelbegriff für Wahrscheinlichkeitsheorie und Statistik.
+
+Die Ursprünge der Wahrscheinlichkeitstheorne liegen im 16. Jahrhundert, als man siich zuneh-
+mend für die beim Würfelspiel beobachteten Zufallsgesetze interessierte, Hervorzuheben sind
+hier das Werk von CARDANO (1501 - 1576), mit Titel “Liber de ludo aleae”, sowie ein Brieft-
+wechsel zwischen BLAISE PASCAL (1623-1682) und PIERRE FERMAT (1601 - 1665) aus dem
+Jahr 1654 über Gewinnaussichten in Spielsituationen, in dem diese bereits Begriffe wie Wahr-
+scheinlichkeit und Erwartungswert erfassen. CHRISTIAN HUYGENS (1629 - 1695) verfasste
+dann 1657 eine vollständige Theorie des Würfelspiels.
+
+Um eine Vorstellung von den Probleme dieser Zeit zu bekommen, betrachten wir folgende S1-
+tuation: Bei zwei Würfelspielen wird
+
+e mit einem Würfel geworfen, es g1bt 6 mögliiche Ausgänge, Wiie groß ist die Wahrschein-
+lichkeit, in 4 Würfen mindestens eine Sechs zu erhalten?
+
+e mit zwei Würfeln geworfen, hier gibt es 6-6 = 36 mögliche Ausgänge, Wie groß ist die
+Wahrscheinlichkeit, in 6-4 = 24 Würfen mindestens eine Doppelsechs zu erhalten”
+
+Einige Zeit wurde diesen beiden Ereignissen fälschlicher Weise die gleiche Wahrscheinlichkeit
+zugeordnet, da die Verhältnisse 6 : 4 und 36 ; 24 gleich sind.
+Weitere wichtige Stationen bei der Entwicklung der Wahrscheinlichkeitstheorie waren:
+
+e 1713: JAKOB BERNOULLI (1654 - 1705) verfasst das Werk * Ars conjectandi”, Dies war
+das erste grundlegende Werk über Wahrscheinlichkeitsrechnung und enthält bereits das
+Gesetz der großen Zahlen.
+
+e 1512 PIERRE SIMON DE LAPLACE (1749 - 1827) verfasst das Werk “\"Theorie analytique
+des probabilites”, Er definiert die Wahrscheinlichkeit eines Ereignisses als das Verhältnis
+der günstigen Fälle zu den möglichen Fällen.
+
+e 1919 RICHARD VON MISES (1883 - 1953) verfasst das Werk “Grundlagen der Wahr-
+scheinlichkeitsrechnung”, Er defimert Wahrscheinlichkeit als Grenzwert der relativen Häu-
+fgkeit.
+
+e 1933 ANDREI NIKOLAJEWITSCH KOLMOGOROFF (1903 - 1987) verfasst das Werk “Grund-
+begriffe der Wahrscheinlichkeitsrechnung”, in dem er die bis heute übliche axiomatische
+Begründung der Wahrscheinlichkeitstheorie darlegt.
+"
